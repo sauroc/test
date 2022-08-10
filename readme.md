@@ -1,2 +1,1 @@
-
-# this is me 
+# I'm just trying to figure out how everything works lmao
